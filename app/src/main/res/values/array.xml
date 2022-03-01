@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="days">
+        <item>Dushanba Chorshanba Juma</item>
+        <item>Seshanba Payshanba Shanba</item>
+    </array>
+    <array name="dates">
+        <item>16:30-18:30</item>
+        <item>19:00-21:00</item>
+    </array>
+</resources>
